@@ -1,0 +1,9 @@
+c:\users\sergey\documents\visual studio 2013\Projects\TIS_KR\TIS_KR\bin\Debug\TIS_KR.exe.config
+c:\users\sergey\documents\visual studio 2013\Projects\TIS_KR\TIS_KR\bin\Debug\TIS_KR.exe
+c:\users\sergey\documents\visual studio 2013\Projects\TIS_KR\TIS_KR\bin\Debug\TIS_KR.pdb
+c:\users\sergey\documents\visual studio 2013\Projects\TIS_KR\TIS_KR\obj\Debug\TIS_KR.csprojResolveAssemblyReference.cache
+c:\users\sergey\documents\visual studio 2013\Projects\TIS_KR\TIS_KR\obj\Debug\TIS_KR.Form1.resources
+c:\users\sergey\documents\visual studio 2013\Projects\TIS_KR\TIS_KR\obj\Debug\TIS_KR.Properties.Resources.resources
+c:\users\sergey\documents\visual studio 2013\Projects\TIS_KR\TIS_KR\obj\Debug\TIS_KR.csproj.GenerateResource.Cache
+c:\users\sergey\documents\visual studio 2013\Projects\TIS_KR\TIS_KR\obj\Debug\TIS_KR.exe
+c:\users\sergey\documents\visual studio 2013\Projects\TIS_KR\TIS_KR\obj\Debug\TIS_KR.pdb
